@@ -1,0 +1,37 @@
+1. Найти велосипед с максимальным временем пробега.
+
+Bike id is 535 and maximum duration is 18611693
+
+2. Найти наибольшее геодезическое расстояние между станциями.
+
+(SJSU - San Salvador at 9th,Embarcadero at Sansome,69.9318508210141)
+
+3. Найти путь велосипеда с максимальным временем пробега через станции.
+
+From station Post at Kearney to station: San Francisco Caltrain (Townsend at 4th)
+From station San Francisco Caltrain (Townsend at 4th) to station: San Francisco Caltrain 2 (330 Townsend)
+From station San Francisco Caltrain 2 (330 Townsend) to station: Market at Sansome
+From station Market at Sansome to station: 2nd at South Park
+From station 2nd at Townsend to station: Davis at Jackson
+From station San Francisco City Hall to station: Civic Center BART (7th at Market)
+From station Civic Center BART (7th at Market) to station: Post at Kearney
+From station Post at Kearney to station: Embarcadero at Sansome
+From station Embarcadero at Sansome to station: Washington at Kearney
+From station Washington at Kearney to station: Market at Sansome
+
+4. Найти количество велосипедов в системе.
+
+700
+
+5. Найти пользователей потративших на поездки более 3 часов.
+
+(93720,78337)
+(70128,17262)
+(11415,23128)
+(92694,51561)
+(94065,1365770)
+(89448,139645)
+(15213,52794)
+(44106,40088)
+(94608,3291380)
+(83709,11590)
